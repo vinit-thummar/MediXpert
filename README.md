@@ -1,6 +1,5 @@
 # MediXpert - AI-Powered Disease Diagnosis & Healthcare Assistant
 
-![MediXpert Banner](./assets/images/medixpert-banner.png)
 
 MediXpert is a full-stack web application that leverages AI and cognitive science to provide **symptom-based disease prediction**, doctor suggestions, and medical report management. It is designed to enhance patient experience, streamline healthcare workflows, and offer an interactive, personalized platform for both patients and doctors.
 
